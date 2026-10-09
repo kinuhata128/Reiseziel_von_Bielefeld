@@ -1,0 +1,14 @@
+{
+  "meta": {"reviewedAt":"2026-10-09","method":"Explicit user corrections take priority over imported labels."},
+  "overrides": {
+    "057700020020": {"nameZh":"吕伯克","source":"user-correction","note":"User explicitly specified Lübbecke → 吕伯克; keep distinct from Lübeck → 吕贝克. The incorrect former app spelling is not retained as an alias."},
+    "031030000000": {"nameZh":"沃尔夫斯堡","source":"reviewed-exception","note":"Google Maps title is 沃尔夫, while its city overview uses 沃尔夫斯堡. Keep the complete established city name; preserve the map title as a search alias."},
+    "051700024024": {"nameZh":"默尔斯","source":"reviewed-exception","note":"Google Maps title is 莫尔斯-维恩 while the German heading is Moers and the linked city article is 默尔斯. Keep the municipality name without the extra locality suffix; retain the map title as a search alias."},
+    "057700032032": {"nameZh":"波塔韦斯特法利卡","source":"reviewed-exception","aliases":["波尔塔韦斯特法利卡"],"note":"Google Maps title adds 山口, but its overview identifies the municipality as 波塔韦斯特法利卡. Use the municipality name and retain the map title as a search alias."},
+    "057700004004": {"nameZh":"巴特恩豪森","source":"google-maps","aliases":["巴特厄因豪森"],"note":"Google Maps title reviewed; retain the former app spelling for search."},
+    "057580004004": {"nameZh":"本德","source":"google-maps","aliases":["宾德"],"note":"Google Maps title reviewed; retain the former app spelling for search."},
+    "059740040040": {"nameZh":"苏斯特","source":"google-maps","aliases":["索斯特"],"note":"Google Maps title reviewed; retain the former app spelling for search."},
+    "057540012012": {"nameZh":"哈雷","source":"google-maps","aliases":["哈勒（威斯特法伦）","威斯特法伦哈雷"],"note":"Halle (Westfalen), reviewed Google Maps title; retain a regional search qualifier."},
+    "150020000000": {"nameZh":"哈雷","source":"google-maps","aliases":["哈雷（萨勒河畔）"],"note":"Halle (Saale), reviewed Google Maps title; retain a regional search qualifier."}
+  }
+}

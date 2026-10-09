@@ -1,0 +1,1098 @@
+{
+  "totalCities": 2059,
+  "matchedCities": 1903,
+  "unresolved": [
+    {
+      "cityId": "120520000000",
+      "name": "Cottbus/Chóśebuz",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "093630000000",
+      "name": "Weiden i.d.OPf.",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "146250020020",
+      "name": "Bautzen / Budyšin",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "065330009009",
+      "name": "Limburg a. d. Lahn",
+      "state": "Hessen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "100450117117",
+      "name": "St. Ingbert",
+      "state": "Saarland",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "033520062062",
+      "name": "Geestland",
+      "state": "Niedersachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "064380012012",
+      "name": "Rödermark",
+      "state": "Hessen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "081190091091",
+      "name": "Weinstadt",
+      "state": "Baden-Württemberg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "091860143143",
+      "name": "Pfaffenhofen a.d.Ilm",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "095740138138",
+      "name": "Lauf a.d.Pegnitz",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "100460117117",
+      "name": "St. Wendel",
+      "state": "Saarland",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "082150109109",
+      "name": "Stutensee",
+      "state": "Baden-Württemberg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120660304304",
+      "name": "Senftenberg/Zły Komorow",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "091900157157",
+      "name": "Weilheim i.OB",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "091830128128",
+      "name": "Mühldorf a.Inn",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "083155001006",
+      "name": "Bad Krozingen",
+      "state": "Baden-Württemberg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "100440111111",
+      "name": "Dillingen/ Saar",
+      "state": "Saarland",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120710372372",
+      "name": "Spremberg/Grodk",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "091780143143",
+      "name": "Moosburg a.d.Isar",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "081255001005",
+      "name": "Bad Friedrichshall",
+      "state": "Baden-Württemberg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "097730125125",
+      "name": "Dillingen a.d.Donau",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "145210035035",
+      "name": "Aue-Bad Schlema",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "095770177177",
+      "name": "Weißenburg i.Bay.",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "065310014014",
+      "name": "Pohlheim",
+      "state": "Hessen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "091840119119",
+      "name": "Garching b.München",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "057660032032",
+      "name": "Horn-Bad Meinberg",
+      "state": "Nordrhein-Westfalen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "145230020020",
+      "name": "Auerbach/Vogtl.",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "084250141141",
+      "name": "Blaustein",
+      "state": "Baden-Württemberg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120660196196",
+      "name": "Lübbenau/Spreewald / Lubnjow/Błota",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "095740112112",
+      "name": "Altdorf b.Nürnberg",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "092790122122",
+      "name": "Landau a.d.Isar",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "097800124124",
+      "name": "Immenstadt i.Allgäu",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150820340340",
+      "name": "Sandersdorf-Brehna",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "010570091091",
+      "name": "Schwentinental",
+      "state": "Schleswig-Holstein",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "091750122122",
+      "name": "Grafing b.München",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "095720135135",
+      "name": "Höchstadt a.d.Aisch",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120680468468",
+      "name": "Wittstock/Dosse",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150830531531",
+      "name": "Wanzleben-Börde",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "065310012012",
+      "name": "Linden",
+      "state": "Hessen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "095750153153",
+      "name": "Neustadt a.d.Aisch",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "064400023023",
+      "name": "Rosbach v. d. Höhe",
+      "state": "Hessen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150830411411",
+      "name": "Oebisfelde-Weferlingen",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150820377377",
+      "name": "Südliches Anhalt",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "095740152152",
+      "name": "Röthenbach a.d.Pegnitz",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "091870182182",
+      "name": "Wasserburg a.Inn",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "083260052052",
+      "name": "St. Georgen im Schwarzwald",
+      "state": "Baden-Württemberg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "010530083083",
+      "name": "Lauenburg/ Elbe",
+      "state": "Schleswig-Holstein",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "097760117117",
+      "name": "Lindenberg i.Allgäu",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "064390012012",
+      "name": "Oestrich-Winkel",
+      "state": "Hessen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "145210450450",
+      "name": "Oelsnitz/Erzgeb.",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "146260085085",
+      "name": "Ebersbach-Neugersdorf",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "145245128160",
+      "name": "Lichtenstein/Sa.",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120610540540",
+      "name": "Wildau",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "092770145145",
+      "name": "Simbach a.Inn",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "091760114114",
+      "name": "Beilngries",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "096770131131",
+      "name": "Gemünden a.Main",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160675050053",
+      "name": "Ohrdruf",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "064400017017",
+      "name": "Niddatal",
+      "state": "Hessen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "096760122122",
+      "name": "Erlenbach a.Main",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "081160081081",
+      "name": "Aichtal",
+      "state": "Baden-Württemberg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150880216216",
+      "name": "Wettin-Löbejün",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150850228228",
+      "name": "Oberharz am Brocken",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "091710132132",
+      "name": "Töging a.Inn",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150910391391",
+      "name": "Zahna-Elster",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "092750124124",
+      "name": "Bad Griesbach i.Rottal",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "091860158158",
+      "name": "Vohburg a.d.Donau",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "093710113113",
+      "name": "Auerbach i.d.OPf.",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150820301301",
+      "name": "Raguhn-Jeßnitz",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "096760145145",
+      "name": "Obernburg a.Main",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "092740176176",
+      "name": "Rottenburg a.d.Laaber",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "083155016108",
+      "name": "Staufen im Breisgau",
+      "state": "Baden-Württemberg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120660112112",
+      "name": "Großräschen/Rań",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150910241241",
+      "name": "Oranienbaum-Wörlitz",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "097735713136",
+      "name": "Gundelfingen a.d.Donau",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "146250310310",
+      "name": "Lauta",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120660320320",
+      "name": "Vetschau/Spreewald / Wětošow/Błota",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120660052052",
+      "name": "Calau/Kalawa",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150890307307",
+      "name": "Seeland",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "093720137137",
+      "name": "Bad Kötzting",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "145215115380",
+      "name": "Lugau/Erzgeb.",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "145235107120",
+      "name": "Falkenstein/Vogtl.",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "147300045045",
+      "name": "Belgern-Schildau",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "145210495495",
+      "name": "Pockau-Lengefeld",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "064370004004",
+      "name": "Breuberg",
+      "state": "Hessen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "096745611130",
+      "name": "Ebern",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160650087087",
+      "name": "Roßleben-Wiehe",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160715053102",
+      "name": "Am Ettersberg",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "097735716139",
+      "name": "Höchstädt a.d.Donau",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "146270050050",
+      "name": "Gröditz",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "094750168168",
+      "name": "Schwarzenbach a.d.Saale",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "093730121121",
+      "name": "Dietfurt a.d.Altmühl",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "094730158158",
+      "name": "Bad Rodach",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150870031031",
+      "name": "Arnstein",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "096760134134",
+      "name": "Klingenberg a.Main",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120625031128",
+      "name": "Falkenberg/Elster",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "096730141141",
+      "name": "Bad Königshofen i.Grabfeld",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160630103103",
+      "name": "Werra-Suhl-Tal",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "145210620620",
+      "name": "Thalheim/Erzgeb.",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160655056088",
+      "name": "An der Schmücke",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "146250525525",
+      "name": "Schirgiswalde-Kirschau",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160760094094",
+      "name": "Berga-Wünschendorf",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160645055077",
+      "name": "Nottertal-Heilinger Höhen",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "010515166072",
+      "name": "Marne",
+      "state": "Schleswig-Holstein",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160660074074",
+      "name": "Brotterode-Trusetal",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "145210260260",
+      "name": "Grünhain-Beierfeld",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "096740221221",
+      "name": "Zeil a.Main",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "146285202020",
+      "name": "Bad Gottleuba-Berggießhübel",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160745015011",
+      "name": "Dornburg-Camburg",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "093755336210",
+      "name": "Wörth a.d.Donau",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "097795721197",
+      "name": "Oettingen i.Bay.",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "066350008008",
+      "name": "Diemelstadt",
+      "state": "Hessen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "096745612149",
+      "name": "Hofheim i.UFr.",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150850110110",
+      "name": "Falkenstein/Harz",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160635006104",
+      "name": "Amt Creuzburg",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120625031500",
+      "name": "Uebigau-Wahrenbrück",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "130715162142",
+      "name": "Stavenhagen",
+      "state": "Mecklenburg-Vorpommern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "057620024024",
+      "name": "Marienmünster",
+      "state": "Nordrhein-Westfalen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "096760169169",
+      "name": "Wörth a.Main",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "096730117117",
+      "name": "Bischofsheim i.d.Rhön",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "130715159124",
+      "name": "Röbel/Müritz",
+      "state": "Mecklenburg-Vorpommern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "145230310310",
+      "name": "Pausa-Mühltroff",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "146265232450",
+      "name": "Reichenbach/O.L.",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160670065065",
+      "name": "Tambach-Dietharz/Thür. Wald",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "145230010010",
+      "name": "Adorf/Vogtl.",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "094720116116",
+      "name": "Bad Berneck i.Fichtelgebirge",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "130745459074",
+      "name": "Schönberg",
+      "state": "Mecklenburg-Vorpommern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "093745327117",
+      "name": "Eschenbach i.d.OPf.",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "094750169169",
+      "name": "Schwarzenbach a.Wald",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "066350016016",
+      "name": "Lichtenfels",
+      "state": "Hessen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "146265235480",
+      "name": "Rothenburg/O.L.",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "096760112112",
+      "name": "Amorbach",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "064390010010",
+      "name": "Lorch",
+      "state": "Hessen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "096740164164",
+      "name": "Königsberg i.Bay.",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120685805324",
+      "name": "Neustadt (Dosse)",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160760092092",
+      "name": "Auma-Weidatal",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160735012113",
+      "name": "Schwarzatal",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160750135135",
+      "name": "Saalburg-Ebersdorf",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160695004063",
+      "name": "Heldburg",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120695902270",
+      "name": "Havelsee",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "146265206030",
+      "name": "Bernstadt a. d. Eigen",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120715102044",
+      "name": "Döbern/Derbno",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "082255007114",
+      "name": "Ravenstein",
+      "state": "Baden-Württemberg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "145235131370",
+      "name": "Schöneck/Vogtl.",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "081175006061",
+      "name": "Lauterstein",
+      "state": "Baden-Württemberg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "094725417118",
+      "name": "Betzenstein",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "130725259085",
+      "name": "Rerik",
+      "state": "Mecklenburg-Vorpommern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "146285219210",
+      "name": "Königstein/Sächs. Schw.",
+      "state": "Sachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160735005028",
+      "name": "Gräfenthal",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "094795443127",
+      "name": "Hohenberg a.d.Eger",
+      "state": "Bayern",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "150905051610",
+      "name": "Werben (Elbe)",
+      "state": "Sachsen-Anhalt",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "120615108328",
+      "name": "Märkisch Buchholz",
+      "state": "Brandenburg",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160755013127",
+      "name": "Ziegenrück",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160715053061",
+      "name": "Neumark",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "160695004052",
+      "name": "Ummerstadt",
+      "state": "Thüringen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "033545403021",
+      "name": "Schnackenburg",
+      "state": "Niedersachsen",
+      "status": "missing",
+      "matches": []
+    },
+    {
+      "cityId": "010595920002",
+      "name": "Arnis",
+      "state": "Schleswig-Holstein",
+      "status": "missing",
+      "matches": []
+    }
+  ]
+}

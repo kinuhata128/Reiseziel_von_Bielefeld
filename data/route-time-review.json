@@ -1,0 +1,3267 @@
+{
+  "meta": {
+    "reviewedAt": "2026-10-09",
+    "populationThreshold": 100000,
+    "origin": "Bielefeld Hbf",
+    "method": "Official DB route-page example journeys. Samples vary by date and are not an exhaustive timetable search; regional examples are not proof of the fastest regional journey. Missing route data is not evidence of unreachability."
+  },
+  "entries": [
+    {
+      "cityId": "110000000000",
+      "name": "Berlin",
+      "population": 3685265,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Berlin Hbf",
+        "all": {
+          "minutes": 170,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 355,
+          "transfers": 2
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/berlin.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-04 07:23",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "11:38",
+          "arrivalStation": "Berlin Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "15:18",
+          "minutes": 220,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "07:38",
+          "arrivalStation": "Berlin Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "11:19",
+          "minutes": 221,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "18:27",
+          "arrivalStation": "Berlin Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "22:17",
+          "minutes": 230,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "020000000000",
+      "name": "Hamburg",
+      "population": 1862565,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Hamburg Hbf",
+        "all": {
+          "minutes": 180,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 250,
+          "transfers": 2
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/hamburg.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-02 05:12",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "07:38",
+          "arrivalStation": "Hamburg Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "09:57",
+          "minutes": 139,
+          "transfers": 1,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "06:12",
+          "arrivalStation": "Hamburg Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "09:15",
+          "minutes": 183,
+          "transfers": 1,
+          "products": [
+            "ERB",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "18:34",
+          "arrivalStation": "Hamburg Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "20:57",
+          "minutes": 143,
+          "transfers": 1,
+          "products": [
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "091620000000",
+      "name": "München",
+      "population": 1505005,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "053150000000",
+      "name": "Köln",
+      "population": 1024621,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Köln Hbf",
+        "all": {
+          "minutes": 155,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 190,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/koeln.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-06 03:42",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "09:33",
+          "arrivalStation": "Köln Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "11:14",
+          "minutes": 101,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "06:00",
+          "arrivalStation": "Köln Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "08:38",
+          "minutes": 158,
+          "transfers": 1,
+          "products": [
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "18:22",
+          "arrivalStation": "Köln Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "20:33",
+          "minutes": 131,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "064120000000",
+      "name": "Frankfurt am Main",
+      "population": 756021,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Frankfurt (Main) Hbf",
+        "all": {
+          "minutes": 210,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 330,
+          "transfers": 3
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/frankfurt.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-04 04:35",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "11:33",
+          "arrivalStation": "Frankfurt (Main) Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "14:45",
+          "minutes": 192,
+          "transfers": 1,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "06:00",
+          "arrivalStation": "Frankfurt (Main) Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "09:54",
+          "minutes": 234,
+          "transfers": 2,
+          "products": [
+            "NX",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "18:34",
+          "arrivalStation": "Frankfurt (Main) Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "21:56",
+          "minutes": 202,
+          "transfers": 1,
+          "products": [
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "051110000000",
+      "name": "Düsseldorf",
+      "population": 618685,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Düsseldorf Hbf",
+        "all": {
+          "minutes": 125,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 155,
+          "transfers": 0
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/duesseldorf.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-09-30 13:54",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-14",
+          "departureTime": "08:22",
+          "arrivalStation": "Düsseldorf Hbf",
+          "arrivalDate": "2026-10-14",
+          "arrivalTime": "10:04",
+          "minutes": 102,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-14",
+          "departureTime": "06:00",
+          "arrivalStation": "Düsseldorf Hbf",
+          "arrivalDate": "2026-10-14",
+          "arrivalTime": "08:33",
+          "minutes": 153,
+          "transfers": 2,
+          "products": [
+            "BUS",
+            "NX",
+            "VIA"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-14",
+          "departureTime": "18:22",
+          "arrivalStation": "Düsseldorf Hbf",
+          "arrivalDate": "2026-10-14",
+          "arrivalTime": "20:05",
+          "minutes": 103,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "081110000000",
+      "name": "Stuttgart",
+      "population": 612663,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "147130000000",
+      "name": "Leipzig",
+      "population": 611850,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Leipzig Hbf",
+        "all": {
+          "minutes": 240,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 360,
+          "transfers": 3
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/leipzig.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 02:15",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "08:27",
+          "arrivalStation": "Leipzig Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "12:15",
+          "minutes": 228,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "IC"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:36",
+          "arrivalStation": "Leipzig Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "11:39",
+          "minutes": 303,
+          "transfers": 2,
+          "products": [
+            "RB",
+            "RE",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:27",
+          "arrivalStation": "Leipzig Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "22:44",
+          "minutes": 257,
+          "transfers": 1,
+          "products": [
+            "RE",
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "059130000000",
+      "name": "Dortmund",
+      "population": 603462,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Dortmund Hbf",
+        "all": {
+          "minutes": 65,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 90,
+          "transfers": 0
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/dortmund.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-06 06:04",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "19:23",
+          "arrivalStation": "Dortmund Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "20:07",
+          "minutes": 44,
+          "transfers": 0,
+          "products": [
+            "FLX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "06:00",
+          "arrivalStation": "Dortmund Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "07:05",
+          "minutes": 65,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "18:00",
+          "arrivalStation": "Dortmund Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "19:05",
+          "minutes": 65,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "040110000000",
+      "name": "Bremen",
+      "population": 586271,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Bremen Hbf",
+        "all": {
+          "minutes": 125,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 160,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/bremen.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-03 04:08",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-17",
+          "departureTime": "09:20",
+          "arrivalStation": "Bremen Hbf",
+          "arrivalDate": "2026-10-17",
+          "arrivalTime": "11:14",
+          "minutes": 114,
+          "transfers": 2,
+          "products": [
+            "ERB",
+            "IC",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-17",
+          "departureTime": "06:12",
+          "arrivalStation": "Bremen Hbf",
+          "arrivalDate": "2026-10-17",
+          "arrivalTime": "08:14",
+          "minutes": 122,
+          "transfers": 1,
+          "products": [
+            "ERB",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-17",
+          "departureTime": "18:12",
+          "arrivalStation": "Bremen Hbf",
+          "arrivalDate": "2026-10-17",
+          "arrivalTime": "20:14",
+          "minutes": 122,
+          "transfers": 1,
+          "products": [
+            "ERB",
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "051130000000",
+      "name": "Essen",
+      "population": 574682,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Essen Hbf",
+        "all": {
+          "minutes": 95,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 120,
+          "transfers": 0
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/essen.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-02 02:28",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "15:26",
+          "arrivalStation": "Essen Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "16:40",
+          "minutes": 74,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "06:00",
+          "arrivalStation": "Essen Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "07:30",
+          "minutes": 90,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "18:00",
+          "arrivalStation": "Essen Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "19:30",
+          "minutes": 90,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "146120000000",
+      "name": "Dresden",
+      "population": 564904,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "095640000000",
+      "name": "Nürnberg",
+      "population": 529508,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "032410001001",
+      "name": "Hannover",
+      "population": 522131,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Hannover Hbf",
+        "all": {
+          "minutes": 55,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 110,
+          "transfers": 0
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/hannover.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 06:54",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "07:38",
+          "arrivalStation": "Hannover Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "08:28",
+          "minutes": 50,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:36",
+          "arrivalStation": "Hannover Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "07:28",
+          "minutes": 52,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:27",
+          "arrivalStation": "Hannover Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "19:19",
+          "minutes": 52,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "051120000000",
+      "name": "Duisburg",
+      "population": 502270,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Duisburg Hbf",
+        "all": {
+          "minutes": 110,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 135,
+          "transfers": 0
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/duisburg.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-09-30 13:54",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-14",
+          "departureTime": "04:02",
+          "arrivalStation": "Duisburg Hbf",
+          "arrivalDate": "2026-10-14",
+          "arrivalTime": "05:33",
+          "minutes": 91,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-14",
+          "departureTime": "06:00",
+          "arrivalStation": "Duisburg Hbf",
+          "arrivalDate": "2026-10-14",
+          "arrivalTime": "08:08",
+          "minutes": 128,
+          "transfers": 1,
+          "products": [
+            "BUS",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-14",
+          "departureTime": "18:00",
+          "arrivalStation": "Duisburg Hbf",
+          "arrivalDate": "2026-10-14",
+          "arrivalTime": "20:08",
+          "minutes": 128,
+          "transfers": 1,
+          "products": [
+            "BUS",
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "059110000000",
+      "name": "Bochum",
+      "population": 358676,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Bochum Hbf",
+        "all": {
+          "minutes": 80,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 105,
+          "transfers": 0
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/bochum.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 02:36",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "15:26",
+          "arrivalStation": "Bochum Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "16:26",
+          "minutes": 60,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:00",
+          "arrivalStation": "Bochum Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "07:18",
+          "minutes": 78,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:00",
+          "arrivalStation": "Bochum Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "19:18",
+          "minutes": 78,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "051240000000",
+      "name": "Wuppertal",
+      "population": 358193,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Wuppertal Hbf",
+        "all": {
+          "minutes": 130,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 150,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/wuppertal.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 02:32",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "07:33",
+          "arrivalStation": "Wuppertal Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "08:44",
+          "minutes": 71,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:00",
+          "arrivalStation": "Wuppertal Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "08:02",
+          "minutes": 122,
+          "transfers": 1,
+          "products": [
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:22",
+          "arrivalStation": "Wuppertal Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "19:42",
+          "minutes": 80,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "057110000000",
+      "name": "Bielefeld",
+      "population": 331605,
+      "status": "origin-excluded"
+    },
+    {
+      "cityId": "053140000000",
+      "name": "Bonn",
+      "population": 323336,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Bonn Hbf",
+        "all": {
+          "minutes": 185,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 225,
+          "transfers": 2
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/bonn.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 02:36",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "07:33",
+          "arrivalStation": "Bonn Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "09:54",
+          "minutes": 141,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:00",
+          "arrivalStation": "Bonn Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "09:25",
+          "minutes": 205,
+          "transfers": 2,
+          "products": [
+            "NX",
+            "TR"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:22",
+          "arrivalStation": "Bonn Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "21:05",
+          "minutes": 163,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "082220000000",
+      "name": "Mannheim",
+      "population": 318035,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "082120000000",
+      "name": "Karlsruhe",
+      "population": 309050,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "055150000000",
+      "name": "Münster",
+      "population": 308258,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Münster (Westf) Hbf",
+        "all": {
+          "minutes": 90,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 90,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/muenster.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 07:37",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "07:23",
+          "arrivalStation": "Münster (Westf) Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "08:22",
+          "minutes": 59,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:00",
+          "arrivalStation": "Münster (Westf) Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "07:17",
+          "minutes": 77,
+          "transfers": 1,
+          "products": [
+            "ERB",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:00",
+          "arrivalStation": "Münster (Westf) Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "19:17",
+          "minutes": 77,
+          "transfers": 1,
+          "products": [
+            "ERB",
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "097610000000",
+      "name": "Augsburg",
+      "population": 301105,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "064140000000",
+      "name": "Wiesbaden",
+      "population": 288850,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "055130000000",
+      "name": "Gelsenkirchen",
+      "population": 267930,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Gelsenkirchen Hbf",
+        "all": {
+          "minutes": 105,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 130,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/gelsenkirchen.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-06 01:10",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "11:23",
+          "arrivalStation": "Gelsenkirchen Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "12:41",
+          "minutes": 78,
+          "transfers": 1,
+          "products": [
+            "FLX",
+            "VIA"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "06:00",
+          "arrivalStation": "Gelsenkirchen Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "07:49",
+          "minutes": 109,
+          "transfers": 1,
+          "products": [
+            "RE",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "18:00",
+          "arrivalStation": "Gelsenkirchen Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "19:49",
+          "minutes": 109,
+          "transfers": 1,
+          "products": [
+            "RE",
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "051160000000",
+      "name": "Mönchengladbach",
+      "population": 267213,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Mönchengladbach Hbf",
+        "all": {
+          "minutes": 160,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 195,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/moenchengladbach.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-01 06:44",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-15",
+          "departureTime": "07:33",
+          "arrivalStation": "Mönchengladbach Hbf",
+          "arrivalDate": "2026-10-15",
+          "arrivalTime": "09:49",
+          "minutes": 136,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-15",
+          "departureTime": "06:27",
+          "arrivalStation": "Mönchengladbach Hbf",
+          "arrivalDate": "2026-10-15",
+          "arrivalTime": "09:11",
+          "minutes": 164,
+          "transfers": 1,
+          "products": [
+            "ERB"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-15",
+          "departureTime": "18:36",
+          "arrivalStation": "Mönchengladbach Hbf",
+          "arrivalDate": "2026-10-15",
+          "arrivalTime": "21:11",
+          "minutes": 155,
+          "transfers": 1,
+          "products": [
+            "ERB",
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "053340002002",
+      "name": "Aachen",
+      "population": 262670,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Aachen Hbf",
+        "all": {
+          "minutes": 220,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 255,
+          "transfers": 2
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/aachen.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-02 01:16",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "13:33",
+          "arrivalStation": "Aachen Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "16:14",
+          "minutes": 161,
+          "transfers": 1,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "06:00",
+          "arrivalStation": "Aachen Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "09:40",
+          "minutes": 220,
+          "transfers": 2,
+          "products": [
+            "RE",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "18:22",
+          "arrivalStation": "Aachen Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "21:37",
+          "minutes": 195,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "031010000000",
+      "name": "Braunschweig",
+      "population": 252962,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Braunschweig Hbf",
+        "all": {
+          "minutes": 110,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 175,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/braunschweig.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 02:53",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:36",
+          "arrivalStation": "Braunschweig Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "08:03",
+          "minutes": 87,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:36",
+          "arrivalStation": "Braunschweig Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "08:03",
+          "minutes": 87,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:34",
+          "arrivalStation": "Braunschweig Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "20:03",
+          "minutes": 89,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "010020000000",
+      "name": "Kiel",
+      "population": 252668,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "145110000000",
+      "name": "Chemnitz",
+      "population": 245618,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "150030000000",
+      "name": "Magdeburg",
+      "population": 244329,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Magdeburg Hbf",
+        "all": {
+          "minutes": 175,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 250,
+          "transfers": 2
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/magdeburg.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 08:01",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "21:38",
+          "arrivalStation": "Magdeburg Hbf",
+          "arrivalDate": "2026-10-23",
+          "arrivalTime": "00:02",
+          "minutes": 144,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:36",
+          "arrivalStation": "Magdeburg Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "09:28",
+          "minutes": 172,
+          "transfers": 1,
+          "products": [
+            "RB",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:27",
+          "arrivalStation": "Magdeburg Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "20:54",
+          "minutes": 147,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "083110000000",
+      "name": "Freiburg im Breisgau",
+      "population": 237460,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "051140000000",
+      "name": "Krefeld",
+      "population": 231406,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Krefeld Hbf",
+        "all": {
+          "minutes": 150,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 175,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/krefeld.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 10:25",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "11:23",
+          "arrivalStation": "Krefeld Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "13:31",
+          "minutes": 128,
+          "transfers": 1,
+          "products": [
+            "FLX",
+            "RE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:00",
+          "arrivalStation": "Krefeld Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "08:59",
+          "minutes": 179,
+          "transfers": 2,
+          "products": [
+            "RB",
+            "BUS",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:22",
+          "arrivalStation": "Krefeld Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "20:54",
+          "minutes": 152,
+          "transfers": 2,
+          "products": [
+            "ICE",
+            "NX",
+            "TRI"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "150020000000",
+      "name": "Halle (Saale)",
+      "population": 226767,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Halle (Saale) Hbf",
+        "all": {
+          "minutes": 230,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 340,
+          "transfers": 3
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/halle.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-02 05:12",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "11:38",
+          "arrivalStation": "Halle (Saale) Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "15:02",
+          "minutes": 204,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "IC"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "06:36",
+          "arrivalStation": "Halle (Saale) Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "10:41",
+          "minutes": 245,
+          "transfers": 2,
+          "products": [
+            "RB",
+            "RE",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "18:27",
+          "arrivalStation": "Halle (Saale) Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "22:47",
+          "minutes": 260,
+          "transfers": 2,
+          "products": [
+            "RE",
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "073150000000",
+      "name": "Mainz",
+      "population": 224684,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "160510000000",
+      "name": "Erfurt",
+      "population": 218793,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Erfurt Hbf",
+        "all": {
+          "minutes": 205,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 310,
+          "transfers": 3
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/erfurt.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-09-29 06:12",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-13",
+          "departureTime": "10:49",
+          "arrivalStation": "Erfurt Hbf",
+          "arrivalDate": "2026-10-13",
+          "arrivalTime": "14:15",
+          "minutes": 206,
+          "transfers": 1,
+          "products": [
+            "ERB",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-13",
+          "departureTime": "06:38",
+          "arrivalStation": "Erfurt Hbf",
+          "arrivalDate": "2026-10-13",
+          "arrivalTime": "11:30",
+          "minutes": 292,
+          "transfers": 2,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-13",
+          "departureTime": "18:27",
+          "arrivalStation": "Erfurt Hbf",
+          "arrivalDate": "2026-10-13",
+          "arrivalTime": "23:37",
+          "minutes": 310,
+          "transfers": 2,
+          "products": [
+            "RE",
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "010030000000",
+      "name": "Lübeck",
+      "population": 216889,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "051190000000",
+      "name": "Oberhausen",
+      "population": 213646,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Oberhausen Hbf",
+        "all": {
+          "minutes": 115,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 145,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/oberhausen.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-04 01:18",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "16:42",
+          "arrivalStation": "Oberhausen Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "18:09",
+          "minutes": 87,
+          "transfers": 1,
+          "products": [
+            "IC",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "06:00",
+          "arrivalStation": "Oberhausen Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "07:51",
+          "minutes": 111,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "18:00",
+          "arrivalStation": "Oberhausen Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "19:51",
+          "minutes": 111,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "130030000000",
+      "name": "Rostock",
+      "population": 205307,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "066110000000",
+      "name": "Kassel",
+      "population": 197230,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Kassel-Wilhelmshöhe",
+        "all": {
+          "minutes": 130,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 160,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/kassel.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-04 07:18",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "09:20",
+          "arrivalStation": "Kassel Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "11:34",
+          "minutes": 134,
+          "transfers": 2,
+          "products": [
+            "RE",
+            "IC",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "06:31",
+          "arrivalStation": "Kassel Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "09:34",
+          "minutes": 183,
+          "transfers": 2,
+          "products": [
+            "WFB",
+            "RE",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "18:34",
+          "arrivalStation": "Kassel Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "21:34",
+          "minutes": 180,
+          "transfers": 2,
+          "products": [
+            "RE",
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "059140000000",
+      "name": "Hagen",
+      "population": 190384,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Hagen Hbf",
+        "all": {
+          "minutes": 100,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 115,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/hagen.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-02 05:13",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "07:33",
+          "arrivalStation": "Hagen Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "08:25",
+          "minutes": 52,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "06:00",
+          "arrivalStation": "Hagen Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "07:38",
+          "minutes": 98,
+          "transfers": 1,
+          "products": [
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "18:22",
+          "arrivalStation": "Hagen Hbf",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "19:25",
+          "minutes": 63,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "120540000000",
+      "name": "Potsdam",
+      "population": 184754,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "100410100100",
+      "name": "Saarbrücken",
+      "population": 182971,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "059150000000",
+      "name": "Hamm",
+      "population": 179968,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Hamm (Westf) Hbf",
+        "all": {
+          "minutes": 50,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 55,
+          "transfers": 0
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/hamm.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-01 03:26",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-15",
+          "departureTime": "07:23",
+          "arrivalStation": "Hamm (Westf) Hbf",
+          "arrivalDate": "2026-10-15",
+          "arrivalTime": "07:50",
+          "minutes": 27,
+          "transfers": 0,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-15",
+          "departureTime": "06:00",
+          "arrivalStation": "Hamm (Westf) Hbf",
+          "arrivalDate": "2026-10-15",
+          "arrivalTime": "06:42",
+          "minutes": 42,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-15",
+          "departureTime": "18:00",
+          "arrivalStation": "Hamm (Westf) Hbf",
+          "arrivalDate": "2026-10-15",
+          "arrivalTime": "18:42",
+          "minutes": 42,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "073140000000",
+      "name": "Ludwigshafen am Rhein",
+      "population": 177222,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "034030000000",
+      "name": "Oldenburg (Oldenburg)",
+      "population": 176614,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Oldenburg (Oldb) Hbf",
+        "all": {
+          "minutes": 175,
+          "transfers": 2
+        },
+        "regional": {
+          "minutes": 195,
+          "transfers": 2
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/oldenburg.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-07 10:51",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-21",
+          "departureTime": "07:00",
+          "arrivalStation": "Oldenburg (Oldb) Hbf",
+          "arrivalDate": "2026-10-21",
+          "arrivalTime": "09:29",
+          "minutes": 149,
+          "transfers": 2,
+          "products": [
+            "RE",
+            "NWB",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-21",
+          "departureTime": "06:12",
+          "arrivalStation": "Oldenburg (Oldb) Hbf",
+          "arrivalDate": "2026-10-21",
+          "arrivalTime": "09:23",
+          "minutes": 191,
+          "transfers": 2,
+          "products": [
+            "RE",
+            "ERB",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-21",
+          "departureTime": "18:12",
+          "arrivalStation": "Oldenburg (Oldb) Hbf",
+          "arrivalDate": "2026-10-21",
+          "arrivalTime": "21:23",
+          "minutes": 191,
+          "transfers": 2,
+          "products": [
+            "RE",
+            "ERB",
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "051170000000",
+      "name": "Mülheim an der Ruhr",
+      "population": 173050,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Mülheim (Ruhr) Hbf",
+        "all": {
+          "minutes": 112,
+          "transfers": 1,
+          "anchorCityId": "059130000000",
+          "lines": [
+            "ruhr-main"
+          ],
+          "via": [
+            "Dortmund Hbf",
+            "Bochum Hbf",
+            "Essen Hbf",
+            "Mülheim (Ruhr) Hbf"
+          ]
+        },
+        "regional": {
+          "minutes": 127,
+          "transfers": 1,
+          "anchorCityId": "059150000000",
+          "lines": [
+            "ruhr-main"
+          ],
+          "via": [
+            "Hamm (Westf) Hbf",
+            "Kamen",
+            "Dortmund Hbf",
+            "Bochum Hbf",
+            "Essen Hbf",
+            "Mülheim (Ruhr) Hbf"
+          ]
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/muelheim-an-der-ruhr.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 07:37",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "15:26",
+          "arrivalStation": "Mülheim (Ruhr) Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "16:52",
+          "minutes": 86,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:00",
+          "arrivalStation": "Mülheim (Ruhr) Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "07:39",
+          "minutes": 99,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:00",
+          "arrivalStation": "Mülheim (Ruhr) Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "19:39",
+          "minutes": 99,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "053160000000",
+      "name": "Leverkusen",
+      "population": 168581,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Leverkusen Opladen",
+        "all": {
+          "minutes": 163,
+          "transfers": 1,
+          "anchorCityId": "059150000000",
+          "lines": [
+            "re7"
+          ],
+          "via": [
+            "Hamm (Westf) Hbf",
+            "Unna",
+            "Schwerte (Ruhr)",
+            "Hagen Hbf",
+            "Ennepetal",
+            "Schwelm",
+            "Wuppertal Hbf",
+            "Solingen Hbf",
+            "Leverkusen Opladen"
+          ]
+        },
+        "regional": {
+          "minutes": 168,
+          "transfers": 1,
+          "anchorCityId": "059150000000",
+          "lines": [
+            "re7"
+          ],
+          "via": [
+            "Hamm (Westf) Hbf",
+            "Unna",
+            "Schwerte (Ruhr)",
+            "Hagen Hbf",
+            "Ennepetal",
+            "Schwelm",
+            "Wuppertal Hbf",
+            "Solingen Hbf",
+            "Leverkusen Opladen"
+          ]
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/leverkusen.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 02:15",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "07:33",
+          "arrivalStation": "Leverkusen Mitte",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "09:44",
+          "minutes": 131,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:00",
+          "arrivalStation": "Leverkusen Mitte",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "09:03",
+          "minutes": 183,
+          "transfers": 2,
+          "products": [
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:22",
+          "arrivalStation": "Leverkusen Mitte",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "20:44",
+          "minutes": 142,
+          "transfers": 2,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "064110000000",
+      "name": "Darmstadt",
+      "population": 167029,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "034040000000",
+      "name": "Osnabrück",
+      "population": 166057,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Osnabrück Hbf",
+        "all": {
+          "minutes": 55,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 70,
+          "transfers": 0
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/osnabrueck.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 10:53",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "07:00",
+          "arrivalStation": "Osnabrück Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "07:48",
+          "minutes": 48,
+          "transfers": 1,
+          "products": [
+            "RE",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:12",
+          "arrivalStation": "Osnabrück Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "07:13",
+          "minutes": 61,
+          "transfers": 0,
+          "products": [
+            "ERB"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:12",
+          "arrivalStation": "Osnabrück Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "19:12",
+          "minutes": 60,
+          "transfers": 0,
+          "products": [
+            "ERB"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "051220000000",
+      "name": "Solingen",
+      "population": 165626,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Solingen Hbf",
+        "all": {
+          "minutes": 155,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 175,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/solingen.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-05 07:25",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-19",
+          "departureTime": "07:33",
+          "arrivalStation": "Solingen Hbf",
+          "arrivalDate": "2026-10-19",
+          "arrivalTime": "09:06",
+          "minutes": 93,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-19",
+          "departureTime": "06:00",
+          "arrivalStation": "Solingen Hbf",
+          "arrivalDate": "2026-10-19",
+          "arrivalTime": "08:14",
+          "minutes": 134,
+          "transfers": 1,
+          "products": [
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-19",
+          "departureTime": "18:22",
+          "arrivalStation": "Solingen Hbf",
+          "arrivalDate": "2026-10-19",
+          "arrivalTime": "20:04",
+          "minutes": 102,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "057740032032",
+      "name": "Paderborn",
+      "population": 156378,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Paderborn Hbf",
+        "all": {
+          "minutes": 60,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 60,
+          "transfers": 0
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/paderborn.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 10:53",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "04:34",
+          "arrivalStation": "Paderborn Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "05:27",
+          "minutes": 53,
+          "transfers": 0,
+          "products": [
+            "NWB"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:04",
+          "arrivalStation": "Paderborn Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "06:57",
+          "minutes": 53,
+          "transfers": 0,
+          "products": [
+            "NWB"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:04",
+          "arrivalStation": "Paderborn Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "18:57",
+          "minutes": 53,
+          "transfers": 0,
+          "products": [
+            "NWB"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "059160000000",
+      "name": "Herne",
+      "population": 155851,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Herne",
+        "all": {
+          "minutes": 100,
+          "transfers": 1,
+          "anchorCityId": "059130000000",
+          "lines": [
+            "ruhr-north"
+          ],
+          "via": [
+            "Dortmund Hbf",
+            "Castrop-Rauxel Hbf",
+            "Herne"
+          ]
+        },
+        "regional": {
+          "minutes": 125,
+          "transfers": 1,
+          "anchorCityId": "059130000000",
+          "lines": [
+            "ruhr-north"
+          ],
+          "via": [
+            "Dortmund Hbf",
+            "Castrop-Rauxel Hbf",
+            "Herne"
+          ]
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/herne.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-06 10:03",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "11:26",
+          "arrivalStation": "Herne",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "12:36",
+          "minutes": 70,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "06:00",
+          "arrivalStation": "Herne",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "07:49",
+          "minutes": 109,
+          "transfers": 1,
+          "products": [
+            "RB",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "18:22",
+          "arrivalStation": "Herne",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "19:49",
+          "minutes": 87,
+          "transfers": 1,
+          "products": [
+            "RB",
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "082210000000",
+      "name": "Heidelberg",
+      "population": 155756,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "051620024024",
+      "name": "Neuss",
+      "population": 154317,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Neuss Hbf",
+        "all": {
+          "minutes": 149,
+          "transfers": 1,
+          "anchorCityId": "051110000000",
+          "lines": [
+            "re6-rhein"
+          ],
+          "via": [
+            "Düsseldorf Hbf",
+            "Neuss Hbf"
+          ]
+        },
+        "regional": {
+          "minutes": 179,
+          "transfers": 1,
+          "anchorCityId": "051110000000",
+          "lines": [
+            "re6-rhein"
+          ],
+          "via": [
+            "Düsseldorf Hbf",
+            "Neuss Hbf"
+          ]
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/neuss.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-08 09:46",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "07:33",
+          "arrivalStation": "Neuss Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "09:33",
+          "minutes": 120,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "06:27",
+          "arrivalStation": "Neuss Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "08:59",
+          "minutes": 152,
+          "transfers": 1,
+          "products": [
+            "ERB"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-22",
+          "departureTime": "18:22",
+          "arrivalStation": "Neuss Hbf",
+          "arrivalDate": "2026-10-22",
+          "arrivalTime": "20:33",
+          "minutes": 131,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "093620000000",
+      "name": "Regensburg",
+      "population": 151389,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "091610000000",
+      "name": "Ingolstadt",
+      "population": 141185,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "082310000000",
+      "name": "Pforzheim",
+      "population": 134912,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "096630000000",
+      "name": "Würzburg",
+      "population": 133258,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "064130000000",
+      "name": "Offenbach am Main",
+      "population": 132746,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "095630000000",
+      "name": "Fürth",
+      "population": 132036,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "081210000000",
+      "name": "Heilbronn",
+      "population": 131986,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "084210000000",
+      "name": "Ulm",
+      "population": 129882,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "031030000000",
+      "name": "Wolfsburg",
+      "population": 129560,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Wolfsburg Hbf",
+        "all": {
+          "minutes": 110,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 190,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/wolfsburg.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-09-30 00:36",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-14",
+          "departureTime": "06:38",
+          "arrivalStation": "Wolfsburg Hbf",
+          "arrivalDate": "2026-10-14",
+          "arrivalTime": "08:40",
+          "minutes": 122,
+          "transfers": 1,
+          "products": [
+            "ENO",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-14",
+          "departureTime": "06:38",
+          "arrivalStation": "Wolfsburg Hbf",
+          "arrivalDate": "2026-10-14",
+          "arrivalTime": "08:40",
+          "minutes": 122,
+          "transfers": 1,
+          "products": [
+            "ENO",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-14",
+          "departureTime": "18:34",
+          "arrivalStation": "Wolfsburg Hbf",
+          "arrivalDate": "2026-10-14",
+          "arrivalTime": "20:42",
+          "minutes": 128,
+          "transfers": 1,
+          "products": [
+            "ENO",
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "031590016016",
+      "name": "Göttingen",
+      "population": 127259,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Göttingen",
+        "all": {
+          "minutes": 120,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 155,
+          "transfers": 1
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/goettingen.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-02 02:09",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "09:20",
+          "arrivalStation": "Göttingen",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "10:59",
+          "minutes": 99,
+          "transfers": 1,
+          "products": [
+            "IC",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "06:36",
+          "arrivalStation": "Göttingen",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "08:26",
+          "minutes": 110,
+          "transfers": 1,
+          "products": [
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-16",
+          "departureTime": "18:34",
+          "arrivalStation": "Göttingen",
+          "arrivalDate": "2026-10-16",
+          "arrivalTime": "20:25",
+          "minutes": 111,
+          "transfers": 1,
+          "products": [
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "084150061061",
+      "name": "Reutlingen",
+      "population": 118852,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "040120000000",
+      "name": "Bremerhaven",
+      "population": 118610,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Bremerhaven Hbf",
+        "all": {
+          "minutes": 187,
+          "transfers": 2,
+          "anchorCityId": "040110000000",
+          "lines": [
+            "re8"
+          ],
+          "via": [
+            "Bremen Hbf",
+            "Osterholz-Scharmbeck",
+            "Bremerhaven Hbf"
+          ]
+        },
+        "regional": {
+          "minutes": 219,
+          "transfers": 2,
+          "anchorCityId": "057110000000",
+          "lines": [
+            "bielefeld-minden",
+            "minden-nienburg",
+            "re8"
+          ],
+          "via": [
+            "Bielefeld Hbf",
+            "Herford",
+            "Löhne (Westf)",
+            "Bad Oeynhausen",
+            "Porta Westfalica",
+            "Minden (Westf)",
+            "Petershagen-Lahde",
+            "Nienburg (Weser)",
+            "Verden (Aller)",
+            "Achim",
+            "Bremen Hbf",
+            "Osterholz-Scharmbeck",
+            "Bremerhaven Hbf"
+          ]
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/bremerhaven.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-01 02:53",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-15",
+          "departureTime": "08:36",
+          "arrivalStation": "Bremerhaven Hbf",
+          "arrivalDate": "2026-10-15",
+          "arrivalTime": "11:31",
+          "minutes": 175,
+          "transfers": 2,
+          "products": [
+            "RE",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-15",
+          "departureTime": "06:12",
+          "arrivalStation": "Bremerhaven Hbf",
+          "arrivalDate": "2026-10-15",
+          "arrivalTime": "09:31",
+          "minutes": 199,
+          "transfers": 1,
+          "products": [
+            "RE",
+            "ERB"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-15",
+          "departureTime": "18:12",
+          "arrivalStation": "Bremerhaven Hbf",
+          "arrivalDate": "2026-10-15",
+          "arrivalTime": "21:31",
+          "minutes": 199,
+          "transfers": 1,
+          "products": [
+            "RE",
+            "ERB"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "055120000000",
+      "name": "Bottrop",
+      "population": 118535,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Bottrop Hbf",
+        "all": {
+          "minutes": 122,
+          "transfers": 1,
+          "anchorCityId": "051130000000",
+          "lines": [
+            "re14"
+          ],
+          "via": [
+            "Essen Hbf",
+            "Bottrop Hbf"
+          ]
+        },
+        "regional": {
+          "minutes": 146,
+          "transfers": 2,
+          "anchorCityId": "059150000000",
+          "lines": [
+            "ruhr-main",
+            "re14"
+          ],
+          "via": [
+            "Hamm (Westf) Hbf",
+            "Kamen",
+            "Dortmund Hbf",
+            "Bochum Hbf",
+            "Essen Hbf",
+            "Bottrop Hbf"
+          ]
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/bottrop.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-01 02:53",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-15",
+          "departureTime": "18:36",
+          "arrivalStation": "Bottrop Hbf",
+          "arrivalDate": "2026-10-15",
+          "arrivalTime": "20:13",
+          "minutes": 97,
+          "transfers": 1,
+          "products": [
+            "RRB",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-15",
+          "departureTime": "06:00",
+          "arrivalStation": "Bottrop Hbf",
+          "arrivalDate": "2026-10-15",
+          "arrivalTime": "08:13",
+          "minutes": 133,
+          "transfers": 1,
+          "products": [
+            "RRB",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-15",
+          "departureTime": "18:36",
+          "arrivalStation": "Bottrop Hbf",
+          "arrivalDate": "2026-10-15",
+          "arrivalTime": "20:13",
+          "minutes": 97,
+          "transfers": 1,
+          "products": [
+            "RRB",
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "095620000000",
+      "name": "Erlangen",
+      "population": 115928,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "055620032032",
+      "name": "Recklinghausen",
+      "population": 115344,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Recklinghausen",
+        "all": {
+          "minutes": 132,
+          "transfers": 2,
+          "anchorCityId": "055130000000",
+          "lines": [
+            "re2-south"
+          ],
+          "via": [
+            "Gelsenkirchen Hbf",
+            "Recklinghausen"
+          ]
+        },
+        "regional": {
+          "minutes": 142,
+          "transfers": 1,
+          "anchorCityId": "057110000000",
+          "lines": [
+            "rb67",
+            "re2-south"
+          ],
+          "via": [
+            "Bielefeld Hbf",
+            "Rheda-Wiedenbrück",
+            "Warendorf",
+            "Telgte",
+            "Münster (Westf) Hbf",
+            "Haltern am See",
+            "Recklinghausen"
+          ]
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/recklinghausen.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-06 10:03",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "11:23",
+          "arrivalStation": "Recklinghausen Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "12:57",
+          "minutes": 94,
+          "transfers": 1,
+          "products": [
+            "FLX",
+            "IC"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "06:00",
+          "arrivalStation": "Recklinghausen Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "07:54",
+          "minutes": 114,
+          "transfers": 2,
+          "products": [
+            "RE",
+            "ERB",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "18:00",
+          "arrivalStation": "Recklinghausen Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "19:54",
+          "minutes": 114,
+          "transfers": 2,
+          "products": [
+            "RE",
+            "ERB",
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "051200000000",
+      "name": "Remscheid",
+      "population": 113828,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Remscheid Hbf",
+        "all": {
+          "minutes": 172,
+          "transfers": 2,
+          "anchorCityId": "051240000000",
+          "lines": [
+            "s7"
+          ],
+          "via": [
+            "Wuppertal Hbf",
+            "Remscheid Hbf"
+          ]
+        },
+        "regional": {
+          "minutes": 180,
+          "transfers": 2,
+          "anchorCityId": "059150000000",
+          "lines": [
+            "re7",
+            "s7"
+          ],
+          "via": [
+            "Hamm (Westf) Hbf",
+            "Unna",
+            "Schwerte (Ruhr)",
+            "Hagen Hbf",
+            "Ennepetal",
+            "Schwelm",
+            "Wuppertal Hbf",
+            "Remscheid Hbf"
+          ]
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/remscheid.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-04 04:38",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "09:33",
+          "arrivalStation": "Remscheid Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "11:13",
+          "minutes": 100,
+          "transfers": 2,
+          "products": [
+            "RRB",
+            "ICE",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "06:00",
+          "arrivalStation": "Remscheid Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "09:21",
+          "minutes": 201,
+          "transfers": 2,
+          "products": [
+            "R",
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "18:22",
+          "arrivalStation": "Remscheid Hbf",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "21:21",
+          "minutes": 179,
+          "transfers": 1,
+          "products": [
+            "R",
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "071110000000",
+      "name": "Koblenz",
+      "population": 113378,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Koblenz Hbf",
+        "all": {
+          "minutes": 230,
+          "transfers": 1
+        },
+        "regional": {
+          "minutes": 300,
+          "transfers": 3
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/koblenz.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-06 11:29",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "06:42",
+          "arrivalStation": "Koblenz Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "09:46",
+          "minutes": 184,
+          "transfers": 2,
+          "products": [
+            "IC",
+            "ICE"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "06:00",
+          "arrivalStation": "Koblenz Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "10:27",
+          "minutes": 267,
+          "transfers": 2,
+          "products": [
+            "NX",
+            "TR"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-20",
+          "departureTime": "18:22",
+          "arrivalStation": "Koblenz Hbf",
+          "arrivalDate": "2026-10-20",
+          "arrivalTime": "22:36",
+          "minutes": 254,
+          "transfers": 2,
+          "products": [
+            "ICE",
+            "TR"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "053780004004",
+      "name": "Bergisch Gladbach",
+      "population": 111361,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "160530000000",
+      "name": "Jena",
+      "population": 109725,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "031020000000",
+      "name": "Salzgitter",
+      "population": 104970,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Salzgitter-Ringelheim",
+        "all": {
+          "minutes": 122,
+          "transfers": 1,
+          "anchorCityId": "032410001001",
+          "lines": [
+            "re10-harz"
+          ],
+          "via": [
+            "Hannover Hbf",
+            "Sarstedt",
+            "Hildesheim Hbf",
+            "Salzgitter-Ringelheim"
+          ]
+        },
+        "regional": {
+          "minutes": 163,
+          "transfers": 2,
+          "anchorCityId": "057110000000",
+          "lines": [
+            "bielefeld-minden",
+            "hildesheim-weser",
+            "re10-harz"
+          ],
+          "via": [
+            "Bielefeld Hbf",
+            "Herford",
+            "Löhne (Westf)",
+            "Vlotho",
+            "Rinteln",
+            "Hessisch Oldendorf",
+            "Hameln",
+            "Elze",
+            "Hildesheim Hbf",
+            "Salzgitter-Ringelheim"
+          ]
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/salzgitter.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-04 03:38",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "07:38",
+          "arrivalStation": "Salzgitter-Ringelheim",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "09:40",
+          "minutes": 122,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "ERX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "06:31",
+          "arrivalStation": "Salzgitter-Bad",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "09:20",
+          "minutes": 169,
+          "transfers": 1,
+          "products": [
+            "RB",
+            "WFB"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-18",
+          "departureTime": "18:34",
+          "arrivalStation": "Salzgitter-Ringelheim",
+          "arrivalDate": "2026-10-18",
+          "arrivalTime": "20:40",
+          "minutes": 126,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "ERX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "072110000000",
+      "name": "Trier",
+      "population": 104342,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "059700040040",
+      "name": "Siegen",
+      "population": 102685,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Siegen Hbf",
+        "all": {
+          "minutes": 195,
+          "transfers": 2
+        },
+        "regional": {
+          "minutes": 195,
+          "transfers": 2
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/siegen.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-05 09:35",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-19",
+          "departureTime": "07:33",
+          "arrivalStation": "Siegen Hbf",
+          "arrivalDate": "2026-10-19",
+          "arrivalTime": "10:50",
+          "minutes": 197,
+          "transfers": 2,
+          "products": [
+            "ICE",
+            "VIA",
+            "HLB"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-19",
+          "departureTime": "07:23",
+          "arrivalStation": "Siegen Hbf",
+          "arrivalDate": "2026-10-19",
+          "arrivalTime": "10:50",
+          "minutes": 207,
+          "transfers": 1,
+          "products": [
+            "ICE",
+            "HLB"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-19",
+          "departureTime": "19:33",
+          "arrivalStation": "Siegen Hbf",
+          "arrivalDate": "2026-10-19",
+          "arrivalTime": "23:00",
+          "minutes": 207,
+          "transfers": 1,
+          "products": [
+            "RE",
+            "ICE"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "051700024024",
+      "name": "Moers",
+      "population": 101503,
+      "status": "no-route-data"
+    },
+    {
+      "cityId": "057540008008",
+      "name": "Gütersloh",
+      "population": 100479,
+      "status": "official-examples-reviewed",
+      "previous": {
+        "station": "Gütersloh Hbf",
+        "all": {
+          "minutes": 15,
+          "transfers": 0
+        },
+        "regional": {
+          "minutes": 15,
+          "transfers": 0
+        }
+      },
+      "source": "https://www.bahn.de/reisen/view/verbindung/bielefeld/guetersloh.shtml",
+      "httpStatus": 200,
+      "sourceUpdatedAt": "2026-10-03 06:17",
+      "samples": [
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-17",
+          "departureTime": "06:42",
+          "arrivalStation": "Gütersloh Hbf",
+          "arrivalDate": "2026-10-17",
+          "arrivalTime": "06:50",
+          "minutes": 8,
+          "transfers": 0,
+          "products": [
+            "IC"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-17",
+          "departureTime": "06:00",
+          "arrivalStation": "Gütersloh Hbf",
+          "arrivalDate": "2026-10-17",
+          "arrivalTime": "06:08",
+          "minutes": 8,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        },
+        {
+          "departureStation": "Bielefeld Hbf",
+          "departureDate": "2026-10-17",
+          "departureTime": "18:00",
+          "arrivalStation": "Gütersloh Hbf",
+          "arrivalDate": "2026-10-17",
+          "arrivalTime": "18:08",
+          "minutes": 8,
+          "transfers": 0,
+          "products": [
+            "NX"
+          ]
+        }
+      ]
+    },
+    {
+      "cityId": "073120000000",
+      "name": "Kaiserslautern",
+      "population": 100426,
+      "status": "no-route-data"
+    }
+  ]
+}

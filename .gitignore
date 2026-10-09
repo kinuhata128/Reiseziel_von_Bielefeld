@@ -1,0 +1,7 @@
+node_modules/
+_site/
+test-results/
+*.log
+__pycache__/
+.DS_Store
+data/geonames-*.zip

@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#6a9fda">
+  <title>下一站 · Bielefeld</title>
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./assets/icon-192.png">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./assets/leaflet/leaflet.css">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./assets/leaflet/leaflet.js" defer></script>
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <header><h1>下一站</h1><span>Bielefeld Hbf 出发</span><button id="install" hidden>安装</button></header>
+  <main>
+    <nav aria-label="主导航"><button class="tab active" data-tab="picker" aria-current="page">抽签</button><button class="tab" data-tab="candidates">候选城市 <span id="tab-count">0</span></button><button class="tab" data-tab="visited">已去过 <span id="visited-count">0</span></button></nav>
+    <div class="workspace">
+      <aside class="filters" aria-label="目的地筛选">
+        <fieldset><legend>单程用时</legend><div class="options">
+          <label><input type="checkbox" name="band" value="0"><span>1 小时内</span></label>
+          <label><input type="checkbox" name="band" value="1"><span>1–2 小时</span></label>
+          <label><input type="checkbox" name="band" value="2"><span>2–3 小时</span></label>
+          <label><input type="checkbox" name="band" value="3"><span>3–4 小时</span></label>
+        </div></fieldset>
+        <fieldset><legend>城市人口 <button id="all-sizes" class="link-button" type="button">全选</button></legend><div class="options">
+          <label><input type="checkbox" name="size" value="small"><span>不足 2 万</span></label>
+          <label><input type="checkbox" name="size" value="medium"><span>2–10 万</span></label>
+          <label><input type="checkbox" name="size" value="large"><span>10–50 万</span></label>
+          <label><input type="checkbox" name="size" value="metro"><span>50 万以上</span></label>
+        </div></fieldset>
+        <fieldset><legend>列车</legend><div class="options">
+          <label><input type="radio" name="mode" value="all"><span>全部铁路</span></label>
+          <label><input type="radio" name="mode" value="regional"><span>区域铁路</span></label>
+        </div></fieldset>
+        <label class="select-label" for="transfers">换乘</label><select id="transfers"><option value="any">不限</option><option value="0">直达</option><option value="1">最多 1 次</option><option value="2">最多 2 次</option></select>
+        <label class="visited-toggle"><input id="exclude-visited" type="checkbox" role="switch"><span class="switch-track" aria-hidden="true"></span><span>排除已去过的城市</span></label>
+        <button id="reset" class="reset-button">重置筛选</button>
+      </aside>
+      <section id="picker-panel" class="panel" aria-label="抽签结果">
+        <p class="picker-intro">今天要带小🦴去哪儿逛逛呢～</p>
+        <div class="result-header"><div id="result" aria-live="polite"></div></div>
+        <div class="map-container"><div id="destination-map" role="region" aria-label="目的地地图"></div><div id="map-offline" hidden>地图需要联网</div></div>
+        <div class="action-bar"><button id="draw" class="primary" disabled>抽一个</button><a class="button map-button" id="google-maps" href="https://www.google.com/maps" target="_blank" rel="noopener noreferrer" hidden>跳转到地图 <span aria-hidden="true">↗</span></a><a class="button" id="db-link" href="https://www.bahn.de/buchung/start" target="_blank" rel="noopener noreferrer" hidden>跳转到DB <span aria-hidden="true">↗</span></a><button id="copy-destination" hidden>复制目的地</button><button id="visit" hidden>标记去过</button><span id="pool-text">加载中…</span></div>
+        <div class="map-credit"><a href="https://www.geonames.org/" target="_blank" rel="noopener noreferrer" title="城市坐标：GeoNames，CC BY 4.0">GeoNames</a></div>
+      </section>
+      <section id="candidates-panel" class="panel list-panel" hidden aria-label="候选城市">
+        <div class="list-toolbar"><input id="search" type="search" placeholder="搜索城市" aria-label="搜索候选城市"><select id="sort" aria-label="候选城市排序"><option value="duration">按用时</option><option value="name">按城市名</option><option value="population">按人口</option></select></div><div id="candidate-list" class="city-list"></div>
+      </section>
+      <section id="visited-panel" class="panel list-panel" hidden aria-label="已去城市">
+        <div class="record-tools"><button id="export-records">导出记录</button><label class="button" for="import-records">导入记录<input id="import-records" type="file" accept="application/json,.json" hidden></label></div><div id="visited-list" class="city-list"></div>
+      </section>
+    </div>
+    <p id="status" role="status" hidden></p>
+  </main>
+  <noscript>请启用 JavaScript。</noscript>
+</body>
+</html>

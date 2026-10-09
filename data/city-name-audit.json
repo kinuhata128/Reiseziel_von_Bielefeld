@@ -1,0 +1,503 @@
+{
+  "totalCities": 2059,
+  "missingNames": [],
+  "ambiguousEntities": [],
+  "googleMapsChecked": 297,
+  "googleMapsNotChecked": 1762,
+  "googleMapsDifferences": [
+    {
+      "cityId": "083110000000",
+      "name": "Freiburg im Breisgau",
+      "wikidata": "布赖斯高地区弗赖堡",
+      "googleMaps": "弗赖堡"
+    },
+    {
+      "cityId": "150020000000",
+      "name": "Halle (Saale)",
+      "wikidata": "萨勒河畔哈雷",
+      "googleMaps": "哈雷"
+    },
+    {
+      "cityId": "160510000000",
+      "name": "Erfurt",
+      "wikidata": "爱尔福特",
+      "googleMaps": "埃尔福特"
+    },
+    {
+      "cityId": "051170000000",
+      "name": "Mülheim an der Ruhr",
+      "wikidata": "米尔海姆",
+      "googleMaps": "鲁尔河畔米尔海姆"
+    },
+    {
+      "cityId": "051220000000",
+      "name": "Solingen",
+      "wikidata": "索林根",
+      "googleMaps": "佐林根"
+    },
+    {
+      "cityId": "091610000000",
+      "name": "Ingolstadt",
+      "wikidata": "英戈尔施塔",
+      "googleMaps": "英戈尔施塔特"
+    },
+    {
+      "cityId": "064130000000",
+      "name": "Offenbach am Main",
+      "wikidata": "美因河畔奥芬巴赫",
+      "googleMaps": "奥芬巴赫"
+    },
+    {
+      "cityId": "031030000000",
+      "name": "Wolfsburg",
+      "wikidata": "沃尔夫斯堡",
+      "googleMaps": "沃尔夫"
+    },
+    {
+      "cityId": "095620000000",
+      "name": "Erlangen",
+      "wikidata": "埃朗根",
+      "googleMaps": "埃尔兰根"
+    },
+    {
+      "cityId": "055620032032",
+      "name": "Recklinghausen",
+      "wikidata": "雷克灵豪森",
+      "googleMaps": "雷克林豪森"
+    },
+    {
+      "cityId": "053780004004",
+      "name": "Bergisch Gladbach",
+      "wikidata": "贝吉施格拉德巴赫",
+      "googleMaps": "贝尔吉施-格拉德巴赫"
+    },
+    {
+      "cityId": "051700024024",
+      "name": "Moers",
+      "wikidata": "默尔斯",
+      "googleMaps": "莫尔斯-维恩"
+    },
+    {
+      "cityId": "055620012012",
+      "name": "Dorsten",
+      "wikidata": "多斯滕",
+      "googleMaps": "多尔斯滕"
+    },
+    {
+      "cityId": "055620004004",
+      "name": "Castrop-Rauxel",
+      "wikidata": "卡斯特罗普-劳克瑟尔",
+      "googleMaps": "卡斯特罗普－劳克塞尔"
+    },
+    {
+      "cityId": "051580020020",
+      "name": "Langenfeld (Rheinland)",
+      "wikidata": "莱茵兰地区朗根费尔德",
+      "googleMaps": "朗根费尔德"
+    },
+    {
+      "cityId": "053340032032",
+      "name": "Stolberg (Rhld.)",
+      "wikidata": "莱茵兰地区施托尔贝格",
+      "googleMaps": "施托尔贝格"
+    },
+    {
+      "cityId": "034540032032",
+      "name": "Lingen (Ems)",
+      "wikidata": "埃姆斯河畔林根",
+      "googleMaps": "林根"
+    },
+    {
+      "cityId": "051540036036",
+      "name": "Kleve",
+      "wikidata": "克莱沃",
+      "googleMaps": "克莱夫"
+    },
+    {
+      "cityId": "055700004004",
+      "name": "Ahlen",
+      "wikidata": "艾伦",
+      "googleMaps": "阿伦"
+    },
+    {
+      "cityId": "053620020020",
+      "name": "Erftstadt",
+      "wikidata": "埃尔夫特施塔特",
+      "googleMaps": "埃夫特施塔特"
+    },
+    {
+      "cityId": "053820020020",
+      "name": "Hennef (Sieg)",
+      "wikidata": "锡格河畔亨内夫",
+      "googleMaps": "亨内夫"
+    },
+    {
+      "cityId": "057540028028",
+      "name": "Rheda-Wiedenbrück",
+      "wikidata": "雷达-维登布吕克",
+      "googleMaps": "雷达－维登布吕克"
+    },
+    {
+      "cityId": "059740040040",
+      "name": "Soest",
+      "wikidata": "索斯特",
+      "googleMaps": "苏斯特"
+    },
+    {
+      "cityId": "057580004004",
+      "name": "Bünde",
+      "wikidata": "宾德",
+      "googleMaps": "本德"
+    },
+    {
+      "cityId": "032410012012",
+      "name": "Neustadt am Rübenberge",
+      "wikidata": "吕本山麓诺伊施塔特",
+      "googleMaps": "诺伊施塔特"
+    },
+    {
+      "cityId": "033530005005",
+      "name": "Buchholz in der Nordheide",
+      "wikidata": "诺德海德地区布赫霍尔茨",
+      "googleMaps": "布赫霍尔茨"
+    },
+    {
+      "cityId": "053700020020",
+      "name": "Hückelhoven",
+      "wikidata": "许克尔霍芬",
+      "googleMaps": "许克尔霍文"
+    },
+    {
+      "cityId": "160620041041",
+      "name": "Nordhausen",
+      "wikidata": "诺德豪森",
+      "googleMaps": "北豪森"
+    },
+    {
+      "cityId": "055620016016",
+      "name": "Haltern am See",
+      "wikidata": "滨湖哈尔滕",
+      "googleMaps": "哈尔滕"
+    },
+    {
+      "cityId": "057700032032",
+      "name": "Porta Westfalica",
+      "wikidata": "波塔韦斯特法利卡",
+      "googleMaps": "波塔韦斯特法利卡山口"
+    },
+    {
+      "cityId": "051620020020",
+      "name": "Korschenbroich",
+      "wikidata": "科尔申布罗伊希",
+      "googleMaps": "科申布罗赫"
+    },
+    {
+      "cityId": "034600009009",
+      "name": "Vechta",
+      "wikidata": "费希塔",
+      "googleMaps": "弗希塔"
+    },
+    {
+      "cityId": "032560022022",
+      "name": "Nienburg (Weser)",
+      "wikidata": "威悉河畔宁堡",
+      "googleMaps": "宁堡"
+    },
+    {
+      "cityId": "051540008008",
+      "name": "Emmerich am Rhein",
+      "wikidata": "莱茵河畔埃默里希",
+      "googleMaps": "埃默里希"
+    },
+    {
+      "cityId": "064400008008",
+      "name": "Friedberg (Hessen)",
+      "wikidata": "黑森州弗里德贝格",
+      "googleMaps": "弗里德贝格"
+    },
+    {
+      "cityId": "033560007007",
+      "name": "Osterholz-Scharmbeck",
+      "wikidata": "奥斯特霍尔茨-沙姆贝克",
+      "googleMaps": "奥斯特霍尔茨－沙姆贝克"
+    },
+    {
+      "cityId": "034600006006",
+      "name": "Lohne (Oldenburg)",
+      "wikidata": "奥尔登堡地区洛讷",
+      "googleMaps": "勒讷"
+    },
+    {
+      "cityId": "051700012012",
+      "name": "Hamminkeln",
+      "wikidata": "哈明克尔恩",
+      "googleMaps": "哈明克恩"
+    },
+    {
+      "cityId": "057540036036",
+      "name": "Schloß Holte-Stukenbrock",
+      "wikidata": "施洛斯霍尔特-施图肯布罗克",
+      "googleMaps": "施洛斯霍尔特-斯图肯布罗克"
+    },
+    {
+      "cityId": "059540032032",
+      "name": "Wetter (Ruhr)",
+      "wikidata": "鲁尔河畔韦特",
+      "googleMaps": "韦特"
+    },
+    {
+      "cityId": "034550026026",
+      "name": "Varel",
+      "wikidata": "法雷尔",
+      "googleMaps": "法勒尔"
+    },
+    {
+      "cityId": "033570039039",
+      "name": "Rotenburg (Wümme)",
+      "wikidata": "维默河畔罗滕堡",
+      "googleMaps": "罗滕堡"
+    },
+    {
+      "cityId": "051580036036",
+      "name": "Wülfrath",
+      "wikidata": "维尔夫拉特",
+      "googleMaps": "维尔弗拉特"
+    },
+    {
+      "cityId": "059580024024",
+      "name": "Marsberg",
+      "wikidata": "马尔斯贝格",
+      "googleMaps": "马斯贝格"
+    },
+    {
+      "cityId": "031530002002",
+      "name": "Bad Harzburg",
+      "wikidata": "巴德哈尔茨堡",
+      "googleMaps": "巴特哈尔茨堡"
+    },
+    {
+      "cityId": "057620004004",
+      "name": "Bad Driburg",
+      "wikidata": "巴德德里堡",
+      "googleMaps": "巴特德里堡"
+    },
+    {
+      "cityId": "032540002002",
+      "name": "Alfeld (Leine)",
+      "wikidata": "莱讷河畔阿尔费尔德",
+      "googleMaps": "阿尔费尔德"
+    },
+    {
+      "cityId": "065340011011",
+      "name": "Kirchhain",
+      "wikidata": "基希海恩",
+      "googleMaps": "基希海因"
+    },
+    {
+      "cityId": "034610002002",
+      "name": "Brake (Unterweser)",
+      "wikidata": "下威悉河畔布拉克",
+      "googleMaps": "布拉克"
+    },
+    {
+      "cityId": "066330013013",
+      "name": "Hofgeismar",
+      "wikidata": "霍夫盖斯马尔",
+      "googleMaps": "霍夫盖斯马"
+    },
+    {
+      "cityId": "059700028028",
+      "name": "Bad Laasphe",
+      "wikidata": "巴特拉斯弗",
+      "googleMaps": "巴特拉斯费"
+    },
+    {
+      "cityId": "031590019019",
+      "name": "Herzberg am Harz",
+      "wikidata": "黑尔茨贝尔格阿姆哈尔茨",
+      "googleMaps": "黑尔茨贝格"
+    },
+    {
+      "cityId": "032575403006",
+      "name": "Bad Nenndorf",
+      "wikidata": "巴特嫩多尔夫",
+      "googleMaps": "巴特嫩多夫"
+    },
+    {
+      "cityId": "059620048048",
+      "name": "Neuenrade",
+      "wikidata": "诺伊恩拉德",
+      "googleMaps": "诺因拉德"
+    },
+    {
+      "cityId": "034590015015",
+      "name": "Dissen am Teutoburger Wald",
+      "wikidata": "条顿堡林山麓迪森",
+      "googleMaps": "迪森"
+    },
+    {
+      "cityId": "031590003003",
+      "name": "Bad Lauterberg im Harz",
+      "wikidata": "哈茨山区巴特劳特贝格",
+      "googleMaps": "哈茨山麓巴特劳特贝格"
+    },
+    {
+      "cityId": "057660052052",
+      "name": "Lügde",
+      "wikidata": "吕希德",
+      "googleMaps": "吕格德"
+    },
+    {
+      "cityId": "057540004004",
+      "name": "Borgholzhausen",
+      "wikidata": "博格霍尔茨豪森",
+      "googleMaps": "博尔格霍尔茨豪森"
+    }
+  ],
+  "reviewedExceptions": [
+    {
+      "cityId": "031030000000",
+      "name": "Wolfsburg",
+      "nameZh": "沃尔夫斯堡",
+      "googleMaps": "沃尔夫",
+      "note": "Google Maps title is 沃尔夫, while its city overview uses 沃尔夫斯堡. Keep the complete established city name; preserve the map title as a search alias."
+    },
+    {
+      "cityId": "051700024024",
+      "name": "Moers",
+      "nameZh": "默尔斯",
+      "googleMaps": "莫尔斯-维恩",
+      "note": "Google Maps title is 莫尔斯-维恩 while the German heading is Moers and the linked city article is 默尔斯. Keep the municipality name without the extra locality suffix; retain the map title as a search alias."
+    },
+    {
+      "cityId": "057700032032",
+      "name": "Porta Westfalica",
+      "nameZh": "波塔韦斯特法利卡",
+      "googleMaps": "波塔韦斯特法利卡山口",
+      "note": "Google Maps title adds 山口, but its overview identifies the municipality as 波塔韦斯特法利卡. Use the municipality name and retain the map title as a search alias."
+    }
+  ],
+  "homonyms": [
+    {
+      "name": "Lichtenfels",
+      "cities": [
+        {
+          "cityId": "094780139139",
+          "state": "Bayern",
+          "nameZh": "利希滕费尔斯"
+        },
+        {
+          "cityId": "066350016016",
+          "state": "Hessen",
+          "nameZh": "利希滕费尔斯"
+        }
+      ]
+    },
+    {
+      "name": "Freudenberg",
+      "cities": [
+        {
+          "cityId": "059700016016",
+          "state": "Nordrhein-Westfalen",
+          "nameZh": "弗罗伊登贝尔格"
+        },
+        {
+          "cityId": "081280039039",
+          "state": "Baden-Württemberg",
+          "nameZh": "弗罗伊登贝格"
+        }
+      ]
+    },
+    {
+      "name": "Erbach",
+      "cities": [
+        {
+          "cityId": "084250039039",
+          "state": "Baden-Württemberg",
+          "nameZh": "埃尔巴赫"
+        },
+        {
+          "cityId": "064370006006",
+          "state": "Hessen",
+          "nameZh": "埃尔巴赫"
+        }
+      ]
+    },
+    {
+      "name": "Lichtenau",
+      "cities": [
+        {
+          "cityId": "057740028028",
+          "state": "Nordrhein-Westfalen",
+          "nameZh": "利希特瑙"
+        },
+        {
+          "cityId": "082165006028",
+          "state": "Baden-Württemberg",
+          "nameZh": "利希特瑙"
+        }
+      ]
+    },
+    {
+      "name": "Lorch",
+      "cities": [
+        {
+          "cityId": "081360042042",
+          "state": "Baden-Württemberg",
+          "nameZh": "洛尔希"
+        },
+        {
+          "cityId": "064390010010",
+          "state": "Hessen",
+          "nameZh": "洛尔希"
+        }
+      ]
+    },
+    {
+      "name": "Arnstein",
+      "cities": [
+        {
+          "cityId": "096770114114",
+          "state": "Bayern",
+          "nameZh": "阿恩施泰因"
+        },
+        {
+          "cityId": "150870031031",
+          "state": "Sachsen-Anhalt",
+          "nameZh": "阿恩施泰因"
+        }
+      ]
+    },
+    {
+      "name": "Friedland",
+      "cities": [
+        {
+          "cityId": "130715152035",
+          "state": "Mecklenburg-Vorpommern",
+          "nameZh": "弗里德兰"
+        },
+        {
+          "cityId": "120670137137",
+          "state": "Brandenburg",
+          "nameZh": "弗里德兰"
+        }
+      ]
+    },
+    {
+      "name": "Waldenburg",
+      "cities": [
+        {
+          "cityId": "145245135290",
+          "state": "Sachsen",
+          "nameZh": "瓦尔登堡"
+        },
+        {
+          "cityId": "081265001085",
+          "state": "Baden-Württemberg",
+          "nameZh": "瓦尔登堡"
+        }
+      ]
+    }
+  ],
+  "issues": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "bielefeld-rail-trip-picker",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "data:routes": "node scripts/seed-routes.mjs",
+    "data:locations": "python scripts/import-locations.py",
+    "data:names": "node scripts/import-city-names.mjs",
+    "data:audit": "node scripts/audit-data.mjs"
+  }
+}

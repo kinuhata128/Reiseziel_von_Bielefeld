@@ -1,0 +1,911 @@
+{
+  "meta": {
+    "preparedAt": "2026-10-09",
+    "kind": "manual-estimates",
+    "verified": false,
+    "origin": "Bielefeld Hbf",
+    "method": "Hand-authored indicative estimates for prototype filtering. No sampled departure dates or verified itineraries. Transfers are also estimates. Regional means regional trains only, not a ticket-validity guarantee."
+  },
+  "routes": [
+    {
+      "cityId": "057540008008",
+      "station": "Gütersloh Hbf",
+      "all": {
+        "minutes": 15,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 15,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057580012012",
+      "station": "Herford",
+      "all": {
+        "minutes": 10,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 10,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057660008008",
+      "station": "Bad Salzuflen",
+      "all": {
+        "minutes": 35,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 35,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "057580004004",
+      "station": "Bünde (Westf)",
+      "all": {
+        "minutes": 25,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 25,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057580024024",
+      "station": "Löhne (Westf)",
+      "all": {
+        "minutes": 25,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 25,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057700024024",
+      "station": "Minden (Westf)",
+      "all": {
+        "minutes": 40,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 40,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057700032032",
+      "station": "Porta Westfalica",
+      "all": {
+        "minutes": 35,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 35,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057700004004",
+      "station": "Bad Oeynhausen",
+      "all": {
+        "minutes": 30,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 30,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057700020020",
+      "station": "Lübbecke (Westf)",
+      "all": {
+        "minutes": 65,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 65,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "057700008008",
+      "station": "Espelkamp",
+      "all": {
+        "minutes": 75,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 75,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "057700040040",
+      "station": "Rahden (Kr Lübbecke)",
+      "all": {
+        "minutes": 85,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 85,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "057540028028",
+      "station": "Rheda-Wiedenbrück",
+      "all": {
+        "minutes": 25,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 25,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057540012012",
+      "station": "Halle (Westf)",
+      "all": {
+        "minutes": 25,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 25,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057540004004",
+      "station": "Borgholzhausen",
+      "all": {
+        "minutes": 40,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 40,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "034590015015",
+      "station": "Dissen-Bad Rothenfelde",
+      "all": {
+        "minutes": 45,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 45,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "055700028028",
+      "station": "Oelde",
+      "all": {
+        "minutes": 35,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 35,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "055700004004",
+      "station": "Ahlen (Westf)",
+      "all": {
+        "minutes": 45,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 45,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "059150000000",
+      "station": "Hamm (Westf) Hbf",
+      "all": {
+        "minutes": 50,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 55,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "055700008008",
+      "station": "Neubeckum",
+      "all": {
+        "minutes": 40,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 40,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057740032032",
+      "station": "Paderborn Hbf",
+      "all": {
+        "minutes": 60,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 60,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057660020020",
+      "station": "Detmold",
+      "all": {
+        "minutes": 45,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 45,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057660040040",
+      "station": "Lage (Lippe)",
+      "all": {
+        "minutes": 30,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 30,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057660044044",
+      "station": "Lemgo",
+      "all": {
+        "minutes": 45,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 45,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057540036036",
+      "station": "Schloß Holte",
+      "all": {
+        "minutes": 25,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 25,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "057620020020",
+      "station": "Höxter Rathaus",
+      "all": {
+        "minutes": 110,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 110,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "057620036036",
+      "station": "Warburg (Westf)",
+      "all": {
+        "minutes": 110,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 110,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "034040000000",
+      "station": "Osnabrück Hbf",
+      "all": {
+        "minutes": 55,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 70,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "034590024024",
+      "station": "Melle",
+      "all": {
+        "minutes": 40,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 40,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "040110000000",
+      "station": "Bremen Hbf",
+      "all": {
+        "minutes": 125,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 160,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "034030000000",
+      "station": "Oldenburg (Oldb) Hbf",
+      "all": {
+        "minutes": 175,
+        "transfers": 2
+      },
+      "regional": {
+        "minutes": 195,
+        "transfers": 2
+      }
+    },
+    {
+      "cityId": "032410001001",
+      "station": "Hannover Hbf",
+      "all": {
+        "minutes": 55,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 110,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "032410021021",
+      "station": "Wunstorf",
+      "all": {
+        "minutes": 90,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 90,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "032570035035",
+      "station": "Stadthagen",
+      "all": {
+        "minutes": 70,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 70,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "032570009009",
+      "station": "Bückeburg",
+      "all": {
+        "minutes": 50,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 50,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "032520006006",
+      "station": "Hameln",
+      "all": {
+        "minutes": 100,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 100,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "032540021021",
+      "station": "Hildesheim Hbf",
+      "all": {
+        "minutes": 110,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 150,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "031010000000",
+      "station": "Braunschweig Hbf",
+      "all": {
+        "minutes": 110,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 175,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "031030000000",
+      "station": "Wolfsburg Hbf",
+      "all": {
+        "minutes": 110,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 190,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "033510006006",
+      "station": "Celle",
+      "all": {
+        "minutes": 110,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 145,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "033550022022",
+      "station": "Lüneburg",
+      "all": {
+        "minutes": 170,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 210,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "031590016016",
+      "station": "Göttingen",
+      "all": {
+        "minutes": 120,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 155,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "031550013013",
+      "station": "Einbeck Mitte",
+      "all": {
+        "minutes": 165,
+        "transfers": 2
+      },
+      "regional": {
+        "minutes": 165,
+        "transfers": 2
+      }
+    },
+    {
+      "cityId": "066110000000",
+      "station": "Kassel-Wilhelmshöhe",
+      "all": {
+        "minutes": 130,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 160,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "065340014014",
+      "station": "Marburg (Lahn)",
+      "all": {
+        "minutes": 180,
+        "transfers": 2
+      },
+      "regional": {
+        "minutes": 230,
+        "transfers": 2
+      }
+    },
+    {
+      "cityId": "055150000000",
+      "station": "Münster (Westf) Hbf",
+      "all": {
+        "minutes": 90,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 90,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "059130000000",
+      "station": "Dortmund Hbf",
+      "all": {
+        "minutes": 65,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 90,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "059110000000",
+      "station": "Bochum Hbf",
+      "all": {
+        "minutes": 80,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 105,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "051130000000",
+      "station": "Essen Hbf",
+      "all": {
+        "minutes": 95,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 120,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "051120000000",
+      "station": "Duisburg Hbf",
+      "all": {
+        "minutes": 110,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 135,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "051110000000",
+      "station": "Düsseldorf Hbf",
+      "all": {
+        "minutes": 125,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 155,
+        "transfers": 0
+      }
+    },
+    {
+      "cityId": "053150000000",
+      "station": "Köln Hbf",
+      "all": {
+        "minutes": 155,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 190,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "053140000000",
+      "station": "Bonn Hbf",
+      "all": {
+        "minutes": 185,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 225,
+        "transfers": 2
+      }
+    },
+    {
+      "cityId": "051240000000",
+      "station": "Wuppertal Hbf",
+      "all": {
+        "minutes": 130,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 150,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "059140000000",
+      "station": "Hagen Hbf",
+      "all": {
+        "minutes": 100,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 115,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "055130000000",
+      "station": "Gelsenkirchen Hbf",
+      "all": {
+        "minutes": 105,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 130,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "051190000000",
+      "station": "Oberhausen Hbf",
+      "all": {
+        "minutes": 115,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 145,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "051140000000",
+      "station": "Krefeld Hbf",
+      "all": {
+        "minutes": 150,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 175,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "051160000000",
+      "station": "Mönchengladbach Hbf",
+      "all": {
+        "minutes": 160,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 195,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "053340002002",
+      "station": "Aachen Hbf",
+      "all": {
+        "minutes": 220,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 255,
+        "transfers": 2
+      }
+    },
+    {
+      "cityId": "051220000000",
+      "station": "Solingen Hbf",
+      "all": {
+        "minutes": 155,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 175,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "059740040040",
+      "station": "Soest",
+      "all": {
+        "minutes": 85,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 85,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "059740028028",
+      "station": "Lippstadt",
+      "all": {
+        "minutes": 85,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 85,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "059580004004",
+      "station": "Arnsberg (Westf)",
+      "all": {
+        "minutes": 110,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 110,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "059580032032",
+      "station": "Meschede",
+      "all": {
+        "minutes": 130,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 130,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "055700052052",
+      "station": "Warendorf",
+      "all": {
+        "minutes": 100,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 100,
+        "transfers": 1
+      }
+    },
+    {
+      "cityId": "059700040040",
+      "station": "Siegen Hbf",
+      "all": {
+        "minutes": 195,
+        "transfers": 2
+      },
+      "regional": {
+        "minutes": 195,
+        "transfers": 2
+      }
+    },
+    {
+      "cityId": "020000000000",
+      "station": "Hamburg Hbf",
+      "all": {
+        "minutes": 180,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 250,
+        "transfers": 2
+      }
+    },
+    {
+      "cityId": "110000000000",
+      "station": "Berlin Hbf",
+      "all": {
+        "minutes": 170,
+        "transfers": 0
+      },
+      "regional": {
+        "minutes": 355,
+        "transfers": 2
+      }
+    },
+    {
+      "cityId": "150030000000",
+      "station": "Magdeburg Hbf",
+      "all": {
+        "minutes": 175,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 250,
+        "transfers": 2
+      }
+    },
+    {
+      "cityId": "150020000000",
+      "station": "Halle (Saale) Hbf",
+      "all": {
+        "minutes": 230,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 340,
+        "transfers": 3
+      }
+    },
+    {
+      "cityId": "147130000000",
+      "station": "Leipzig Hbf",
+      "all": {
+        "minutes": 240,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 360,
+        "transfers": 3
+      }
+    },
+    {
+      "cityId": "064120000000",
+      "station": "Frankfurt (Main) Hbf",
+      "all": {
+        "minutes": 210,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 330,
+        "transfers": 3
+      }
+    },
+    {
+      "cityId": "066310009009",
+      "station": "Fulda",
+      "all": {
+        "minutes": 165,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 240,
+        "transfers": 2
+      }
+    },
+    {
+      "cityId": "160510000000",
+      "station": "Erfurt Hbf",
+      "all": {
+        "minutes": 205,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 310,
+        "transfers": 3
+      }
+    },
+    {
+      "cityId": "071110000000",
+      "station": "Koblenz Hbf",
+      "all": {
+        "minutes": 230,
+        "transfers": 1
+      },
+      "regional": {
+        "minutes": 300,
+        "transfers": 3
+      }
+    }
+  ]
+}
